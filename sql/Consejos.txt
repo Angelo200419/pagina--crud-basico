@@ -1,0 +1,8 @@
+<!--Las bases de datos de esta carpeta son del inventario, login y del resgistro-->
+
+1 - Copie el proyecto en su servidor local o remoto
+
+2 - Importe a su servidor MySQL la base de datos que esta en la carpeta sql
+
+
+
